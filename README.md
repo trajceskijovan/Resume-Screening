@@ -1,2 +1,8 @@
 # Resume-Screening
-Automate resume screening task
+
+Utilize KNeighborsClassifier to automate resume screening tasks and place resumes in their appropriate category:
+- EDA
+- Text data cleanup
+- Wordcloud
+- Prediction
+
