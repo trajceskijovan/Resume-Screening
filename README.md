@@ -2,7 +2,7 @@
 
 Utilize KNeighborsClassifier to automate resume screening tasks and place resumes in their appropriate category:
 - EDA
-- Text data cleanup
+- Text cleanup
 - Wordcloud
 - Prediction
 
