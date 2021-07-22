@@ -6,3 +6,4 @@ Utilize KNeighborsClassifier to automate resume screening tasks and place resume
 - Wordcloud
 - Prediction
 
+![](NLP_1.png)
